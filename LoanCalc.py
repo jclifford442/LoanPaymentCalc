@@ -29,15 +29,11 @@ amtpaid = 0
 rembal = totowed 
 amtpaidtot = 0
 months = years * 12
-
 i = 1
 
-
 print(' ')
 print(' ')
-
 print('*'.center(36,'*'))
-      
 print(' PAYMENT SCHEDULE '.center(36,'*'))
 print('*'.center(36,'*'))
       
